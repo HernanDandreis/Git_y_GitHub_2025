@@ -1,4 +1,4 @@
-## Iniciar un proyecto nuevo
+# Iniciar un proyecto nuevo
 
-git init 
+`git init`
     Inicia un repo en local.

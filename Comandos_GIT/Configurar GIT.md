@@ -1,4 +1,4 @@
-## Configurar GIT
+# Configurar GIT
 
 git config --global init.defaultBranch [branch name]
     Cambia el nombre de la rama por default.
