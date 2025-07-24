@@ -7,7 +7,7 @@ title: "[BUG] - Descripción corta del error"
 
 labels: bug
 
-assignees: ""
+assignees: ''
 ---
 
 ## 🐛 Bug Report
