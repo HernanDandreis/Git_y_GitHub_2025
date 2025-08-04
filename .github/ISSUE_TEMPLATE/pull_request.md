@@ -21,5 +21,3 @@ Si los cammbios afectan a la interfaz de usuario, por favor adjunta capturas de 
 
 ### Otros comentarios
 Agrega cualquier otra información relevante aquí.
-
-### Descripción del cambio
